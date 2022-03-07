@@ -1,0 +1,20 @@
+#top{
+    background-image: url('https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+#about .btn{
+    border-radius: 10px;
+}
+
+i{
+    color: blue;
+}
+
+.card img{
+    height: 250px;
+}
